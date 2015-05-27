@@ -17,4 +17,5 @@ Lintcode Solutions
 | 95    |[Validate Binary Search Tree](http://www.lintcode.com/en/problem/validate-binary-search-tree/) | [c++](./codes/ValidateBinarySearchTree.cpp) |
 | 97    |[Maximum Depth of Binary Tree](http://www.lintcode.com/en/problem/maximum-depth-of-binary-tree/) | [c++](./codes/MaximumDepthofBinaryTree.cpp) |
 | 177    |[Convert Sorted Array to Binary Search Tree With Minimal Height](http://www.lintcode.com/en/problem/convert-sorted-array-to-binary-search-tree-with-minimal-height/) | [c++](./codes/ConvertSortedArraytoBinarySearchTreeWithMinimalHeight.cpp) |
+| 201    |[Segment Tree Build](http://www.lintcode.com/en/problem/segment-tree-build/) | [c++](./codes/SegmentTreeBuild.cpp) |
 | 245    |[Subtree](http://www.lintcode.com/en/problem/subtree/) | [c++](./codes/Subtree.cpp) |
