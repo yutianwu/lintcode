@@ -13,6 +13,7 @@ Lintcode Solutions
 | 69    |[Binary Tree Level Order Traversal](http://www.lintcode.com/en/problem/binary-tree-level-order-traversal/) | [c++](./codes/BinaryTreeLevelOrderTraversal.cpp) |
 | 70    |[Binary Tree Level Order Traversal II](http://www.lintcode.com/en/problem/binary-tree-level-order-traversal-ii/) | [c++](./codes/BinaryTreeLevelOrderTraversalII.cpp) |
 | 71    |[Binary Tree Zigzag Level Order Traversal](http://www.lintcode.com/en/problem/binary-tree-zigzag-level-order-traversal/) | [c++](./codes/BinaryTreeZigzagLevelOrderTraversal.cpp) |
+| 73    |[Construct Binary Tree from Preorder and Inorder Traversal](http://www.lintcode.com/en/problem/construct-binary-tree-from-preorder-and-inorder-traversal/) | [c++](./codes/ConstructBinaryTreefromPreorderandInorderTraversal.cpp) |
 | 86    |[Binary Search Tree Iterator](http://www.lintcode.com/en/problem/binary-search-tree-iterator/) | [c++](./codes/BinarySearchTreeIterator.cpp) |
 | 88    |[Lowest Common Ancestor](http://www.lintcode.com/en/problem/lowest-common-ancestor/) | [c++](./codes/LowestCommonAncestor.cpp) |
 | 95    |[Validate Binary Search Tree](http://www.lintcode.com/en/problem/validate-binary-search-tree/) | [c++](./codes/ValidateBinarySearchTree.cpp) |
