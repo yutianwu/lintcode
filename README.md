@@ -13,10 +13,12 @@ Lintcode Solutions
 | 69    |[Binary Tree Level Order Traversal](http://www.lintcode.com/en/problem/binary-tree-level-order-traversal/) | [c++](./codes/BinaryTreeLevelOrderTraversal.cpp) |
 | 70    |[Binary Tree Level Order Traversal II](http://www.lintcode.com/en/problem/binary-tree-level-order-traversal-ii/) | [c++](./codes/BinaryTreeLevelOrderTraversalII.cpp) |
 | 71    |[Binary Tree Zigzag Level Order Traversal](http://www.lintcode.com/en/problem/binary-tree-zigzag-level-order-traversal/) | [c++](./codes/BinaryTreeZigzagLevelOrderTraversal.cpp) |
+| 86    |[Binary Search Tree Iterator](http://www.lintcode.com/en/problem/binary-search-tree-iterator/) | [c++](./codes/BinarySearchTreeIterator.cpp) |
 | 88    |[Lowest Common Ancestor](http://www.lintcode.com/en/problem/lowest-common-ancestor/) | [c++](./codes/LowestCommonAncestor.cpp) |
 | 95    |[Validate Binary Search Tree](http://www.lintcode.com/en/problem/validate-binary-search-tree/) | [c++](./codes/ValidateBinarySearchTree.cpp) |
 | 97    |[Maximum Depth of Binary Tree](http://www.lintcode.com/en/problem/maximum-depth-of-binary-tree/) | [c++](./codes/MaximumDepthofBinaryTree.cpp) |
 | 177    |[Convert Sorted Array to Binary Search Tree With Minimal Height](http://www.lintcode.com/en/problem/convert-sorted-array-to-binary-search-tree-with-minimal-height/) | [c++](./codes/ConvertSortedArraytoBinarySearchTreeWithMinimalHeight.cpp) |
 | 201    |[Segment Tree Build](http://www.lintcode.com/en/problem/segment-tree-build/) | [c++](./codes/SegmentTreeBuild.cpp) |
 | 202    |[Segment Tree Query](http://www.lintcode.com/en/problem/segment-tree-query/) | [c++](./codes/SegmentTreeQuery.cpp) |
+| 202    |[Segment Tree Modify](http://www.lintcode.com/en/problem/segment-tree-modify/) | [c++](./codes/SegmentTreeModify.cpp) |
 | 245    |[Subtree](http://www.lintcode.com/en/problem/subtree/) | [c++](./codes/Subtree.cpp) |
