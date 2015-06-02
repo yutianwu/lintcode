@@ -13,6 +13,7 @@ Lintcode Solutions
 | 69    |[Binary Tree Level Order Traversal](http://www.lintcode.com/en/problem/binary-tree-level-order-traversal/) | [c++](./codes/BinaryTreeLevelOrderTraversal.cpp) |
 | 70    |[Binary Tree Level Order Traversal II](http://www.lintcode.com/en/problem/binary-tree-level-order-traversal-ii/) | [c++](./codes/BinaryTreeLevelOrderTraversalII.cpp) |
 | 71    |[Binary Tree Zigzag Level Order Traversal](http://www.lintcode.com/en/problem/binary-tree-zigzag-level-order-traversal/) | [c++](./codes/BinaryTreeZigzagLevelOrderTraversal.cpp) |
+| 71    |[Construct Binary Tree from Inorder and Postorder Traversal](http://www.lintcode.com/en/problem/construct-binary-tree-from-inorder-and-postorder-traversal/) | [c++](./codes/ConstructBinaryTreefromInorderandPostorderTraversal.cpp) |
 | 73    |[Construct Binary Tree from Preorder and Inorder Traversal](http://www.lintcode.com/en/problem/construct-binary-tree-from-preorder-and-inorder-traversal/) | [c++](./codes/ConstructBinaryTreefromPreorderandInorderTraversal.cpp) |
 | 86    |[Binary Search Tree Iterator](http://www.lintcode.com/en/problem/binary-search-tree-iterator/) | [c++](./codes/BinarySearchTreeIterator.cpp) |
 | 88    |[Lowest Common Ancestor](http://www.lintcode.com/en/problem/lowest-common-ancestor/) | [c++](./codes/LowestCommonAncestor.cpp) |
@@ -22,4 +23,5 @@ Lintcode Solutions
 | 201    |[Segment Tree Build](http://www.lintcode.com/en/problem/segment-tree-build/) | [c++](./codes/SegmentTreeBuild.cpp) |
 | 202    |[Segment Tree Query](http://www.lintcode.com/en/problem/segment-tree-query/) | [c++](./codes/SegmentTreeQuery.cpp) |
 | 202    |[Segment Tree Modify](http://www.lintcode.com/en/problem/segment-tree-modify/) | [c++](./codes/SegmentTreeModify.cpp) |
+| 206    |[Interval Sum](http://www.lintcode.com/en/problem/interval-sum/) | [c++](./codes/IntervalSum.cpp) |
 | 245    |[Subtree](http://www.lintcode.com/en/problem/subtree/) | [c++](./codes/Subtree.cpp) |
