@@ -24,4 +24,5 @@ Lintcode Solutions
 | 202    |[Segment Tree Query](http://www.lintcode.com/en/problem/segment-tree-query/) | [c++](./codes/SegmentTreeQuery.cpp) |
 | 202    |[Segment Tree Modify](http://www.lintcode.com/en/problem/segment-tree-modify/) | [c++](./codes/SegmentTreeModify.cpp) |
 | 206    |[Interval Sum](http://www.lintcode.com/en/problem/interval-sum/) | [c++](./codes/IntervalSum.cpp) |
+| 207    |[Interval Sum II](http://www.lintcode.com/en/problem/interval-sum-ii/) | [c++](./codes/IntervalSumII.cpp) |
 | 245    |[Subtree](http://www.lintcode.com/en/problem/subtree/) | [c++](./codes/Subtree.cpp) |
