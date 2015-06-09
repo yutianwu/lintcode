@@ -29,3 +29,9 @@ Lintcode Solutions
 | 245    |[Subtree](http://www.lintcode.com/en/problem/subtree/) | [c++](./codes/Subtree.cpp) |
 | 247    |[Segment Tree Query II](http://www.lintcode.com/en/problem/segment-tree-query-ii/) | [c++](./codes/SegmentTreeQueryII.cpp) |
 | 249    |[Count of Smaller Number before itself](http://www.lintcode.com/en/problem/count-of-smaller-number-before-itself/) | [c++](./codes/Countof SmallerNumberBeforeItself.cpp) |
+
+Binary Search Tree 
+| #    | Title       | Solution  | 
+| ---- |-------------| -----     |
+| 85    |[Insert Node in a Binary Search Tree](http://www.lintcode.com/en/problem/insert-node-in-a-binary-search-tree/) | [c++](./codes/InsertNodeinaBinarySearchTree.cpp) |
+
