@@ -28,3 +28,4 @@ Lintcode Solutions
 | 207    |[Interval Sum II](http://www.lintcode.com/en/problem/interval-sum-ii/) | [c++](./codes/IntervalSumII.cpp) |
 | 245    |[Subtree](http://www.lintcode.com/en/problem/subtree/) | [c++](./codes/Subtree.cpp) |
 | 247    |[Segment Tree Query II](http://www.lintcode.com/en/problem/segment-tree-query-ii/) | [c++](./codes/SegmentTreeQueryII.cpp) |
+| 249    |[Count of Smaller Number before itself](http://www.lintcode.com/en/problem/count-of-smaller-number-before-itself/) | [c++](./codes/Countof SmallerNumberBeforeItself.cpp) |
