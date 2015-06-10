@@ -35,3 +35,7 @@ Binary Search Tree
 | ---- |-------------| -----     |
 | 85    |[Insert Node in a Binary Search Tree](http://www.lintcode.com/en/problem/insert-node-in-a-binary-search-tree/) | [c++](./codes/InsertNodeinaBinarySearchTree.cpp) |
 
+Segment Tree  
+| #    | Title       | Solution  | 
+| ---- |-------------| -----     |
+| 85    |[Count of Smaller Number](http://www.lintcode.com/en/problem/count-of-smaller-number/) | [c++](./codes/CountofSmallerNumber.cpp) |
