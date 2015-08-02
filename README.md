@@ -39,3 +39,10 @@ Segment Tree
 | #    | Title       | Solution  | 
 | ---- |-------------| -----     |
 | 85    |[Count of Smaller Number](http://www.lintcode.com/en/problem/count-of-smaller-number/) | [c++](./codes/CountofSmallerNumber.cpp) |
+
+Hash Table
+| #    | Title       | Solution  | 
+| ---- |-------------| -----     |
+| 138  |[Subarray Sum](http://www.lintcode.com/en/problem/subarray-sum/) | [c++](./codes/SubarraySum.cpp) |
+
+
