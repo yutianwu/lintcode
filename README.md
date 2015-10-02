@@ -1,7 +1,7 @@
 Lintcode Solutions
 ===
 
-二叉树
+##二叉树
 
 | #    | Title       | Solution  | 
 | ---- |-------------| -----     |
@@ -30,17 +30,19 @@ Lintcode Solutions
 | 247    |[Segment Tree Query II](http://www.lintcode.com/en/problem/segment-tree-query-ii/) | [c++](./codes/SegmentTreeQueryII.cpp) |
 | 249    |[Count of Smaller Number before itself](http://www.lintcode.com/en/problem/count-of-smaller-number-before-itself/) | [c++](./codes/Countof SmallerNumberBeforeItself.cpp) |
 
-Binary Search Tree 
+##Binary Search Tree 
 | #    | Title       | Solution  | 
 | ---- |-------------| -----     |
 | 85    |[Insert Node in a Binary Search Tree](http://www.lintcode.com/en/problem/insert-node-in-a-binary-search-tree/) | [c++](./codes/InsertNodeinaBinarySearchTree.cpp) |
 
-Segment Tree  
+##Segment Tree  
+
 | #    | Title       | Solution  | 
 | ---- |-------------| -----     |
 | 85    |[Count of Smaller Number](http://www.lintcode.com/en/problem/count-of-smaller-number/) | [c++](./codes/CountofSmallerNumber.cpp) |
 
-Hash Table
+##Hash Table
+
 | #    | Title       | Solution  | 
 | ---- |-------------| -----     |
 | 138  |[Subarray Sum](http://www.lintcode.com/en/problem/subarray-sum/) | [c++](./codes/SubarraySum.cpp) |
