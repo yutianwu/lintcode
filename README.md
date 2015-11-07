@@ -30,10 +30,17 @@ Lintcode Solutions
 | 247    |[Segment Tree Query II](http://www.lintcode.com/en/problem/segment-tree-query-ii/) | [c++](./codes/SegmentTreeQueryII.cpp) |
 | 249    |[Count of Smaller Number before itself](http://www.lintcode.com/en/problem/count-of-smaller-number-before-itself/) | [c++](./codes/Countof SmallerNumberBeforeItself.cpp) |
 
+##Bactracking
+| #    | Title       | Solution  | 
+| ---- |-------------| -----     |
+| x    |[Word Search](http://www.lintcode.com/en/problem/word-search/) | [c++](./codes/Word_Search.cpp) |
+
+
 ##Binary Search Tree 
 | #    | Title       | Solution  | 
 | ---- |-------------| -----     |
 | 85    |[Insert Node in a Binary Search Tree](http://www.lintcode.com/en/problem/insert-node-in-a-binary-search-tree/) | [c++](./codes/InsertNodeinaBinarySearchTree.cpp) |
+
 
 ##Segment Tree  
 
@@ -47,4 +54,11 @@ Lintcode Solutions
 | ---- |-------------| -----     |
 | 138  |[Subarray Sum](http://www.lintcode.com/en/problem/subarray-sum/) | [c++](./codes/SubarraySum.cpp) |
 | 128  |[Hash Function](http://www.lintcode.com/en/problem/hash-function/) | [c++](./codes/HashFunction.cpp) |
+
+##Union Find
+| #    | Title       | Solution  | 
+| ---- |-------------| -----     |
+| x  |[Find the Weak Connected Component in the Directed Graph](http://www.lintcode.com/en/problem/find-the-weak-connected-component-in-the-directed-graph/) | [java](./codes/Find_the_Weak_Connected_Component_in_the_Directed_Graph.java) |
+| x  |[Number of Islands II](http://www.lintcode.com/en/problem/number-of-islands-ii/) | [java](./codes/Number_of_Islands_II.java) |
+
 
