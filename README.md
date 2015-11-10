@@ -30,6 +30,11 @@ Lintcode Solutions
 | 247    |[Segment Tree Query II](http://www.lintcode.com/en/problem/segment-tree-query-ii/) | [c++](./codes/SegmentTreeQueryII.cpp) |
 | 249    |[Count of Smaller Number before itself](http://www.lintcode.com/en/problem/count-of-smaller-number-before-itself/) | [c++](./codes/Countof SmallerNumberBeforeItself.cpp) |
 
+##Array
+| #    | Title       | Solution  | 
+| ---- |-------------| -----     |
+| x    |[Trapping Rain Water](http://www.lintcode.com/en/problem/trapping-rain-water/) | [c++](./codes/Trapping_Rain_Water.cpp) |
+
 ##Bactracking
 | #    | Title       | Solution  | 
 | ---- |-------------| -----     |
