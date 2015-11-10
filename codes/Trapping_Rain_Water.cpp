@@ -1,5 +1,38 @@
-/**
+/*
 解法一:
+双指针，一开始双指针分别指向头和尾。
+每轮循环找出两边最高的bar，这一轮可以确定的容积取决于短的那条，因为无论中间隔着什么，两边的max总能保证可以存下这些水。
+*/
+class Solution {
+public:
+    /**
+     * @param heights: a vector of integers
+     * @return: a integer
+     */
+    int trapRainWater(vector<int> &heights) {
+        if (heights.size() == 0) return 0;
+        
+        int result = 0;
+        int left = 0, right = heights.size() - 1;
+        int leftMax = heights[left], rightMax = heights[right];
+        while (left < right) {
+            leftMax = max(leftMax, heights[left]);
+            rightMax = max(rightMax, heights[right]);
+            if (leftMax > rightMax) {
+                result += rightMax - heights[right];
+                right--;
+            } else {
+                result += leftMax - heights[left];
+                left++;
+            }
+        }
+        return result;
+    }
+};
+
+
+/**
+解法二:
     如果将这些柱子里边全注满水，那么，我们看过去将会是一个中间高，两边低的一个塔形，
     就是从两边往中间最高的柱子靠拢，高度不会减小
 
