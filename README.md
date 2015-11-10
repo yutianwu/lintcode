@@ -60,6 +60,12 @@ Lintcode Solutions
 | 138  |[Subarray Sum](http://www.lintcode.com/en/problem/subarray-sum/) | [c++](./codes/SubarraySum.cpp) |
 | 128  |[Hash Function](http://www.lintcode.com/en/problem/hash-function/) | [c++](./codes/HashFunction.cpp) |
 
+##Two Pointers
+| #    | Title       | Solution  | 
+| ---- |-------------| -----     |
+| x    |[Trapping Rain Water](http://www.lintcode.com/en/problem/trapping-rain-water/) | [c++](./codes/Trapping_Rain_Water.cpp) |
+
+
 ##Union Find
 | #    | Title       | Solution  | 
 | ---- |-------------| -----     |
