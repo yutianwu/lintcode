@@ -62,6 +62,7 @@ Lintcode Solutions
 | #    | Title       | Solution  | 
 | ---- |-------------| -----     |
 | x    |[Building Outline](http://www.lintcode.com/en/problem/building-outline/) | [java](./codes/Building_Outline.java) |
+| x    |[Heapify](http://www.lintcode.com/en/problem/heapify/) | [c++](./codes/Heapify.cpp) |
 
 ##Segment Tree  
 | #    | Title       | Solution  | 
