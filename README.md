@@ -35,7 +35,7 @@ Lintcode Solutions
 | ---- |-------------| -----     |
 | x    |[Trapping Rain Water](http://www.lintcode.com/en/problem/trapping-rain-water/) | [c++](./codes/Trapping_Rain_Water.cpp) |
 
-##Bactracking
+##Backtracking
 | #    | Title       | Solution  | 
 | ---- |-------------| -----     |
 | x    |[Word Search](http://www.lintcode.com/en/problem/word-search/) | [c++](./codes/Word_Search.cpp) |
@@ -45,6 +45,12 @@ Lintcode Solutions
 | #    | Title       | Solution  | 
 | ---- |-------------| -----     |
 | 85    |[Insert Node in a Binary Search Tree](http://www.lintcode.com/en/problem/insert-node-in-a-binary-search-tree/) | [c++](./codes/InsertNodeinaBinarySearchTree.cpp) |
+
+##Breadth First Search
+| #    | Title       | Solution  | 
+| ---- |-------------| -----     |
+| x    |[Find the Connected Component in the Undirected Graph](http://www.lintcode.com/en/problem/find-the-connected-component-in-the-undirected-graph/) | [c++](./codes/Find_the_Connected_Component_in_the_Undirected_Graph.cpp) |
+
 
 ##Hash Table
 | #    | Title       | Solution  | 
