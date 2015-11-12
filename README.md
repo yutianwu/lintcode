@@ -46,25 +46,26 @@ Lintcode Solutions
 | ---- |-------------| -----     |
 | 85    |[Insert Node in a Binary Search Tree](http://www.lintcode.com/en/problem/insert-node-in-a-binary-search-tree/) | [c++](./codes/InsertNodeinaBinarySearchTree.cpp) |
 
-
-##Segment Tree  
-
-| #    | Title       | Solution  | 
-| ---- |-------------| -----     |
-| 85    |[Count of Smaller Number](http://www.lintcode.com/en/problem/count-of-smaller-number/) | [c++](./codes/CountofSmallerNumber.cpp) |
-
 ##Hash Table
-
 | #    | Title       | Solution  | 
 | ---- |-------------| -----     |
 | 138  |[Subarray Sum](http://www.lintcode.com/en/problem/subarray-sum/) | [c++](./codes/SubarraySum.cpp) |
 | 128  |[Hash Function](http://www.lintcode.com/en/problem/hash-function/) | [c++](./codes/HashFunction.cpp) |
 
+##Heap
+| #    | Title       | Solution  | 
+| ---- |-------------| -----     |
+| x    |[Building Outline](http://www.lintcode.com/en/problem/building-outline/) | [java](./codes/Building_Outline.java) |
+
+##Segment Tree  
+| #    | Title       | Solution  | 
+| ---- |-------------| -----     |
+| 85    |[Count of Smaller Number](http://www.lintcode.com/en/problem/count-of-smaller-number/) | [c++](./codes/CountofSmallerNumber.cpp) |
+
 ##Two Pointers
 | #    | Title       | Solution  | 
 | ---- |-------------| -----     |
 | x    |[Trapping Rain Water](http://www.lintcode.com/en/problem/trapping-rain-water/) | [c++](./codes/Trapping_Rain_Water.cpp) |
-
 
 ##Union Find
 | #    | Title       | Solution  | 
