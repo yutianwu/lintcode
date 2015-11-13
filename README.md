@@ -48,7 +48,6 @@ Lintcode Solutions
 
 
 ##Segment Tree  
-
 | #    | Title       | Solution  | 
 | ---- |-------------| -----     |
 | 85    |[Count of Smaller Number](http://www.lintcode.com/en/problem/count-of-smaller-number/) | [c++](./codes/CountofSmallerNumber.cpp) |
@@ -59,6 +58,11 @@ Lintcode Solutions
 | ---- |-------------| -----     |
 | 138  |[Subarray Sum](http://www.lintcode.com/en/problem/subarray-sum/) | [c++](./codes/SubarraySum.cpp) |
 | 128  |[Hash Function](http://www.lintcode.com/en/problem/hash-function/) | [c++](./codes/HashFunction.cpp) |
+
+##Stack
+| #    | Title       | Solution  | 
+| ---- |-------------| -----     |
+| x    |[Implement Queue by Two Stacks](http://www.lintcode.com/en/problem/implement-queue-by-two-stacks/) | [c++](./codes/mplement_Queue_by_Two_Stacks.cpp) |
 
 ##Two Pointers
 | #    | Title       | Solution  | 
