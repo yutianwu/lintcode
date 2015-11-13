@@ -72,7 +72,9 @@ Lintcode Solutions
 ##Stack
 | #    | Title       | Solution  | 
 | ---- |-------------| -----     |
-| x    |[Implement Queue by Two Stacks](http://www.lintcode.com/en/problem/implement-queue-by-two-stacks/) | [c++](./codes/mplement_Queue_by_Two_Stacks.cpp) |
+| x    |[Implement Queue by Two Stacks](http://www.lintcode.com/en/problem/implement-queue-by-two-stacks/) | [c++](./codes/Implement_Queue_by_Two_Stacks.cpp) |
+| x    |[Min Stack](http://www.lintcode.com/en/problem/min-stack/) | [c++](./codes/Min_Stack.cpp) |
+
 
 ##Two Pointers
 | #    | Title       | Solution  | 
