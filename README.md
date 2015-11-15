@@ -74,7 +74,7 @@ Lintcode Solutions
 | ---- |-------------| -----     |
 | x    |[Implement Queue by Two Stacks](http://www.lintcode.com/en/problem/implement-queue-by-two-stacks/) | [c++](./codes/Implement_Queue_by_Two_Stacks.cpp) |
 | x    |[Min Stack](http://www.lintcode.com/en/problem/min-stack/) | [c++](./codes/Min_Stack.cpp) |
-
+| x    |[Expression Tree Build](http://www.lintcode.com/en/problem/expression-tree-build/#) | [c++](./codes/Expression_Tree_Build.cpp) |
 
 ##Two Pointers
 | #    | Title       | Solution  | 
