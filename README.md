@@ -75,6 +75,7 @@ Lintcode Solutions
 | x    |[Implement Queue by Two Stacks](http://www.lintcode.com/en/problem/implement-queue-by-two-stacks/) | [c++](./codes/Implement_Queue_by_Two_Stacks.cpp) |
 | x    |[Min Stack](http://www.lintcode.com/en/problem/min-stack/) | [c++](./codes/Min_Stack.cpp) |
 | x    |[Expression Tree Build](http://www.lintcode.com/en/problem/expression-tree-build/#) | [c++](./codes/Expression_Tree_Build.cpp) |
+| x    |[Convert Expression to Reverse Polish Notation](http://www.lintcode.com/en/problem/convert-expression-to-reverse-polish-notation/) | [c++](./codes/Convert_Expression_to_Reverse_Polish_Notation.cpp) |
 
 ##Two Pointers
 | #    | Title       | Solution  | 
@@ -86,5 +87,4 @@ Lintcode Solutions
 | ---- |-------------| -----     |
 | x  |[Find the Weak Connected Component in the Directed Graph](http://www.lintcode.com/en/problem/find-the-weak-connected-component-in-the-directed-graph/) | [java](./codes/Find_the_Weak_Connected_Component_in_the_Directed_Graph.java) |
 | x  |[Number of Islands II](http://www.lintcode.com/en/problem/number-of-islands-ii/) | [java](./codes/Number_of_Islands_II.java) |
-
 
