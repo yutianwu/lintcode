@@ -51,6 +51,10 @@ Lintcode Solutions
 | ---- |-------------| -----     |
 | x    |[Find the Connected Component in the Undirected Graph](http://www.lintcode.com/en/problem/find-the-connected-component-in-the-undirected-graph/) | [c++](./codes/Find_the_Connected_Component_in_the_Undirected_Graph.cpp) |
 
+##Deque
+| #    | Title       | Solution  | 
+| ---- |-------------| -----     |
+| x    |[Sliding Window Maximum](http://www.lintcode.com/en/problem/sliding-window-maximum/) | [c++](./codes/Sliding_Window_Maximum.cpp) |
 
 ##Hash Table
 | #    | Title       | Solution  | 
