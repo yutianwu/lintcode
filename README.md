@@ -93,6 +93,7 @@ Lintcode Solutions
 | #    | Title       | Solution  | 
 | ---- |-------------| -----     |
 | x    |[Add and Search Word](http://www.lintcode.com/en/problem/add-and-search-word/) | [java](./codes/Add_and_Search_Word.java) |
+| x    |[Word Search II](http://www.lintcode.com/en/problem/word-search-ii/) | [java](./codes/Word_Search_II.java) |
 
 
 ##Union Find
