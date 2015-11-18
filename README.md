@@ -88,6 +88,13 @@ Lintcode Solutions
 | ---- |-------------| -----     |
 | x    |[Trapping Rain Water](http://www.lintcode.com/en/problem/trapping-rain-water/) | [c++](./codes/Trapping_Rain_Water.cpp) |
 
+
+##Trie
+| #    | Title       | Solution  | 
+| ---- |-------------| -----     |
+| x    |[Add and Search Word](http://www.lintcode.com/en/problem/add-and-search-word/) | [java](./codes/Add_and_Search_Word.java) |
+
+
 ##Union Find
 | #    | Title       | Solution  | 
 | ---- |-------------| -----     |
