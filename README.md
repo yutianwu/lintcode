@@ -69,6 +69,7 @@ Lintcode Solutions
 | x    |[Heapify](http://www.lintcode.com/en/problem/heapify/) | [c++](./codes/Heapify.cpp) |
 | x    |[Trapping Rain Water II](http://www.lintcode.com/en/problem/trapping-rain-water-ii/) | [java](./codes/Trapping_Rain_Water_II.java) |
 
+
 ##Segment Tree  
 | #    | Title       | Solution  | 
 | ---- |-------------| -----     |
