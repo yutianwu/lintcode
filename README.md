@@ -67,6 +67,7 @@ Lintcode Solutions
 | ---- |-------------| -----     |
 | x    |[Building Outline](http://www.lintcode.com/en/problem/building-outline/) | [java](./codes/Building_Outline.java) |
 | x    |[Heapify](http://www.lintcode.com/en/problem/heapify/) | [c++](./codes/Heapify.cpp) |
+| x    |[Trapping Rain Water II](http://www.lintcode.com/en/problem/trapping-rain-water-ii/) | [java](./codes/Trapping_Rain_Water_II.java) |
 
 ##Segment Tree  
 | #    | Title       | Solution  | 
