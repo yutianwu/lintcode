@@ -63,6 +63,7 @@ Lintcode Solutions
 | 128  |[Hash Function](http://www.lintcode.com/en/problem/hash-function/) | [c++](./codes/HashFunction.cpp) |
 | x  |[Two Sum](http://www.lintcode.com/en/problem/two-sum/) | [c++](./codes/Two_Sum.cpp) |
 
+
 ##Heap
 | #    | Title       | Solution  | 
 | ---- |-------------| -----     |
