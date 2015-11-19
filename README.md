@@ -92,6 +92,7 @@ Lintcode Solutions
 | x    |[Minimum Size Subarray Sum](http://www.lintcode.com/en/problem/minimum-size-subarray-sum/) | [c++](./codes/Minimum_Size_Subarray_Sum.cpp) |
 | x    |[Container With Most Water](http://www.lintcode.com/en/problem/container-with-most-water/) | [c++](./codes/Container_With_Most_Water.cpp) |
 | x    |[Longest Substring Without Repeating Characters](http://www.lintcode.com/en/problem/longest-substring-without-repeating-characters/) | [c++](./codes/Longest_Substring_Without_Repeating_Characters.cpp) |
+| x    |[Longest Substring with At Most K Distinct Characters](http://www.lintcode.com/en/problem/longest-substring-with-at-most-k-distinct-characters/) | [c++](./codes/Longest_Substring_with_At_Most_K_Distinct_Characters.cpp) |
 
 
 ##Trie
