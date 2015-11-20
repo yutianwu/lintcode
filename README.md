@@ -85,6 +85,7 @@ Lintcode Solutions
 | x    |[Expression Tree Build](http://www.lintcode.com/en/problem/expression-tree-build/#) | [c++](./codes/Expression_Tree_Build.cpp) |
 | x    |[Convert Expression to Reverse Polish Notation](http://www.lintcode.com/en/problem/convert-expression-to-reverse-polish-notation/) | [c++](./codes/Convert_Expression_to_Reverse_Polish_Notation.cpp) |
 | x    |[Expression Evaluation](http://www.lintcode.com/en/problem/expression-evaluation/) | [c++](./codes/Expression_Evaluation.cpp) |
+| x    |[Largest Rectangle in Histogram](http://www.lintcode.com/en/problem/largest-rectangle-in-histogram/) | [c++](./codes/Largest_Rectangle_in_Histogram.cpp) |
 
 
 ##Two Pointers
