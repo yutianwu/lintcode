@@ -76,7 +76,6 @@ Lintcode Solutions
 | x    |[Heapify](http://www.lintcode.com/en/problem/heapify/) | [c++](./codes/Heapify.cpp) |
 | x    |[Trapping Rain Water II](http://www.lintcode.com/en/problem/trapping-rain-water-ii/) | [java](./codes/Trapping_Rain_Water_II.java) |
 
-
 ##Segment Tree  
 | #    | Title       | Solution  | 
 | ---- |-------------| -----     |
@@ -102,6 +101,8 @@ Lintcode Solutions
 | x    |[Longest Substring Without Repeating Characters](http://www.lintcode.com/en/problem/longest-substring-without-repeating-characters/) | [c++](./codes/Longest_Substring_Without_Repeating_Characters.cpp) |
 | x    |[Longest Substring with At Most K Distinct Characters](http://www.lintcode.com/en/problem/longest-substring-with-at-most-k-distinct-characters/) | [c++](./codes/Longest_Substring_with_At_Most_K_Distinct_Characters.cpp) |
 | x    |[Minimum Window Substring](http://www.lintcode.com/en/problem/minimum-window-substring/) | [c++](./codes/Minimum_Window_Substring.cpp) |
+| x    |[The Smallest Difference](http://www.lintcode.com/en/problem/the-smallest-difference/) | [c++](./codes/The_Smallest_Difference.cpp) |
+
 
 ##Trie
 | #    | Title       | Solution  | 
