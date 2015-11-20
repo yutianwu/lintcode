@@ -56,6 +56,11 @@ Lintcode Solutions
 | ---- |-------------| -----     |
 | x    |[Sliding Window Maximum](http://www.lintcode.com/en/problem/sliding-window-maximum/) | [c++](./codes/Sliding_Window_Maximum.cpp) |
 
+##Dynamic Programming
+| #    | Title       | Solution  | 
+| ---- |-------------| -----     |
+| x    |[Longest Increasing Continuous subsequence](http://www.lintcode.com/en/problem/longest-increasing-continuous-subsequence/) | [c++](./codes/Longest_Increasing_Continuous_subsequence.cpp) |
+
 ##Hash Table
 | #    | Title       | Solution  | 
 | ---- |-------------| -----     |
