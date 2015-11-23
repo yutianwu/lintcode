@@ -60,6 +60,8 @@ Lintcode Solutions
 | #    | Title       | Solution  | 
 | ---- |-------------| -----     |
 | x    |[Longest Increasing Continuous subsequence](http://www.lintcode.com/en/problem/longest-increasing-continuous-subsequence/) | [c++](./codes/Longest_Increasing_Continuous_subsequence.cpp) |
+| x    |[Maximal Square](http://www.lintcode.com/en/problem/maximal-square/) | [c++](./codes/Maximal_Square.cpp) |
+
 
 ##Hash Table
 | #    | Title       | Solution  | 
