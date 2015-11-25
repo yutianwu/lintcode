@@ -64,6 +64,7 @@ Lintcode Solutions
 | x    |[House Robber](http://www.lintcode.com/en/problem/house-robber/) | [c++](./codes/House_Robber.cpp) |
 | x    |[Longest Palindromic Substring](http://www.lintcode.com/en/problem/longest-palindromic-substring/) | [c++](./codes/Longest_Palindromic_Substring.cpp) |
 | x    |[Maximum Product Subarray](http://www.lintcode.com/en/problem/maximum-product-subarray/) | [c++](./codes/Maximum_Product_Subarray.cpp) |
+| x    |[Longest Increasing Subsequence](http://www.lintcode.com/en/problem/longest-increasing-subsequence/) | [c++](./codes/Longest_Increasing_Subsequence.cpp) |
 
 ##Hash Table
 | #    | Title       | Solution  | 
@@ -71,7 +72,6 @@ Lintcode Solutions
 | 138  |[Subarray Sum](http://www.lintcode.com/en/problem/subarray-sum/) | [c++](./codes/SubarraySum.cpp) |
 | 128  |[Hash Function](http://www.lintcode.com/en/problem/hash-function/) | [c++](./codes/HashFunction.cpp) |
 | x  |[Two Sum](http://www.lintcode.com/en/problem/two-sum/) | [c++](./codes/Two_Sum.cpp) |
-
 
 ##Heap
 | #    | Title       | Solution  | 
