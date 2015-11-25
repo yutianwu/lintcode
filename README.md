@@ -63,6 +63,7 @@ Lintcode Solutions
 | x    |[Maximal Square](http://www.lintcode.com/en/problem/maximal-square/) | [c++](./codes/Maximal_Square.cpp) |
 | x    |[House Robber](http://www.lintcode.com/en/problem/house-robber/) | [c++](./codes/House_Robber.cpp) |
 | x    |[Longest Palindromic Substring](http://www.lintcode.com/en/problem/longest-palindromic-substring/) | [c++](./codes/Longest_Palindromic_Substring.cpp) |
+| x    |[Maximum Product Subarray](http://www.lintcode.com/en/problem/maximum-product-subarray/) | [c++](./codes/Maximum_Product_Subarray.cpp) |
 
 ##Hash Table
 | #    | Title       | Solution  | 
