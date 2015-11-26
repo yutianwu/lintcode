@@ -66,7 +66,7 @@ Lintcode Solutions
 | x    |[Maximum Product Subarray](http://www.lintcode.com/en/problem/maximum-product-subarray/) | [c++](./codes/Maximum_Product_Subarray.cpp) |
 | x    |[Longest Increasing Subsequence](http://www.lintcode.com/en/problem/longest-increasing-subsequence/) | [c++](./codes/Longest_Increasing_Subsequence.cpp) |
 | x    |[Longest Increasing Continuous subsequence II](http://www.lintcode.com/en/problem/longest-increasing-continuous-subsequence-ii/) | [c++](./codes/Longest_Increasing_Continuous_subsequence_II.cpp) |
-
+| x    |[Coins in a Line](http://www.lintcode.com/en/problem/coins-in-a-line/) | [c++](./codes/Coins_in_a_Line.cpp) |
 
 ##Hash Table
 | #    | Title       | Solution  | 
