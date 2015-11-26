@@ -65,6 +65,8 @@ Lintcode Solutions
 | x    |[Longest Palindromic Substring](http://www.lintcode.com/en/problem/longest-palindromic-substring/) | [c++](./codes/Longest_Palindromic_Substring.cpp) |
 | x    |[Maximum Product Subarray](http://www.lintcode.com/en/problem/maximum-product-subarray/) | [c++](./codes/Maximum_Product_Subarray.cpp) |
 | x    |[Longest Increasing Subsequence](http://www.lintcode.com/en/problem/longest-increasing-subsequence/) | [c++](./codes/Longest_Increasing_Subsequence.cpp) |
+| x    |[Longest Increasing Continuous subsequence II](http://www.lintcode.com/en/problem/longest-increasing-continuous-subsequence-ii/) | [c++](./codes/Longest_Increasing_Continuous_subsequence_II.cpp) |
+
 
 ##Hash Table
 | #    | Title       | Solution  | 
