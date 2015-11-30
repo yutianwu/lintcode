@@ -23,17 +23,17 @@ public:
         vector<int> res;
         stack<TreeNode *> s;
         if (root == NULL) return res;
-        
+
         s.push(root);
         while(!s.empty()) {
             TreeNode *now = s.top();
             s.pop();
             res.push_back(now->val);
-            
-            if (now->right != NULL) 
+
+            if (now->right != NULL)
                 s.push(now->right);
-                
-            if (now->left != NULL) 
+
+            if (now->left != NULL)
                 s.push(now->left);
         }
         return res;

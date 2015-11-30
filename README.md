@@ -110,7 +110,6 @@ Lintcode Solutions
 | x    |[Minimum Window Substring](http://www.lintcode.com/en/problem/minimum-window-substring/) | [c++](./codes/Minimum_Window_Substring.cpp) |
 | x    |[The Smallest Difference](http://www.lintcode.com/en/problem/the-smallest-difference/) | [c++](./codes/The_Smallest_Difference.cpp) |
 
-
 ##Trie
 | #    | Title       | Solution  | 
 | ---- |-------------| -----     |
