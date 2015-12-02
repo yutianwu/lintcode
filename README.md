@@ -75,6 +75,8 @@ Lintcode Solutions
 | x    |[Coins in a Line](http://www.lintcode.com/en/problem/coins-in-a-line/) | [c++](./codes/Coins_in_a_Line.cpp) |
 | x    |[Coins in a Line II](http://www.lintcode.com/en/problem/coins-in-a-line-ii/) | [c++](./codes/Coins_in_a_Line_II.cpp) |
 | x    |[Longest Common Substring](http://www.lintcode.com/en/problem/longest-common-substring/) | [c++](./codes/Longest_Common_Substring.cpp) |
+| x    |[Longest Common Subsequence](http://www.lintcode.com/en/problem/longest-common-subsequence/) | [c++](./codes/Longest_Common_Subsequence.cpp) |
+
 
 ##Hash Table
 
