@@ -3,7 +3,7 @@ Lintcode Solutions
 
 ##二叉树
 
-| #    | Title       | Solution  | 
+| #    | Title       | Solution  |
 | ---- |-------------| -----     |
 | 7    |[Binary Tree Serialization](http://www.lintcode.com/en/problem/binary-tree-serialization/) | [c++](./codes/BinaryTreeSerialization.cpp) |
 | 11    |[Search Range in Binary Search Tree](http://www.lintcode.com/en/problem/search-range-in-binary-search-tree/) | [c++](./codes/SearchRangeinBinarySearchTree.cpp) |
@@ -31,33 +31,39 @@ Lintcode Solutions
 | 249    |[Count of Smaller Number before itself](http://www.lintcode.com/en/problem/count-of-smaller-number-before-itself/) | [c++](./codes/Countof SmallerNumberBeforeItself.cpp) |
 
 ##Array
-| #    | Title       | Solution  | 
+
+| #    | Title       | Solution  |
 | ---- |-------------| -----     |
 | x    |[Trapping Rain Water](http://www.lintcode.com/en/problem/trapping-rain-water/) | [c++](./codes/Trapping_Rain_Water.cpp) |
 
 ##Backtracking
-| #    | Title       | Solution  | 
+
+| #    | Title       | Solution  |
 | ---- |-------------| -----     |
 | x    |[Word Search](http://www.lintcode.com/en/problem/word-search/) | [c++](./codes/Word_Search.cpp) |
 
 
-##Binary Search Tree 
-| #    | Title       | Solution  | 
+##Binary Search Tree
+
+| #    | Title       | Solution  |
 | ---- |-------------| -----     |
 | 85    |[Insert Node in a Binary Search Tree](http://www.lintcode.com/en/problem/insert-node-in-a-binary-search-tree/) | [c++](./codes/InsertNodeinaBinarySearchTree.cpp) |
 
 ##Breadth First Search
-| #    | Title       | Solution  | 
+
+| #    | Title       | Solution  |
 | ---- |-------------| -----     |
 | x    |[Find the Connected Component in the Undirected Graph](http://www.lintcode.com/en/problem/find-the-connected-component-in-the-undirected-graph/) | [c++](./codes/Find_the_Connected_Component_in_the_Undirected_Graph.cpp) |
 
 ##Deque
-| #    | Title       | Solution  | 
+
+| #    | Title       | Solution  |
 | ---- |-------------| -----     |
 | x    |[Sliding Window Maximum](http://www.lintcode.com/en/problem/sliding-window-maximum/) | [c++](./codes/Sliding_Window_Maximum.cpp) |
 
 ##Dynamic Programming
-| #    | Title       | Solution  | 
+
+| #    | Title       | Solution  |
 | ---- |-------------| -----     |
 | x    |[Longest Increasing Continuous subsequence](http://www.lintcode.com/en/problem/longest-increasing-continuous-subsequence/) | [c++](./codes/Longest_Increasing_Continuous_subsequence.cpp) |
 | x    |[Maximal Square](http://www.lintcode.com/en/problem/maximal-square/) | [c++](./codes/Maximal_Square.cpp) |
@@ -68,28 +74,33 @@ Lintcode Solutions
 | x    |[Longest Increasing Continuous subsequence II](http://www.lintcode.com/en/problem/longest-increasing-continuous-subsequence-ii/) | [c++](./codes/Longest_Increasing_Continuous_subsequence_II.cpp) |
 | x    |[Coins in a Line](http://www.lintcode.com/en/problem/coins-in-a-line/) | [c++](./codes/Coins_in_a_Line.cpp) |
 | x    |[Coins in a Line II](http://www.lintcode.com/en/problem/coins-in-a-line-ii/) | [c++](./codes/Coins_in_a_Line_II.cpp) |
+| x    |[Longest Common Substring](http://www.lintcode.com/en/problem/longest-common-substring/) | [c++](./codes/Longest_Common_Substring.cpp) |
 
 ##Hash Table
-| #    | Title       | Solution  | 
+
+| #    | Title       | Solution  |
 | ---- |-------------| -----     |
 | 138  |[Subarray Sum](http://www.lintcode.com/en/problem/subarray-sum/) | [c++](./codes/SubarraySum.cpp) |
 | 128  |[Hash Function](http://www.lintcode.com/en/problem/hash-function/) | [c++](./codes/HashFunction.cpp) |
 | x  |[Two Sum](http://www.lintcode.com/en/problem/two-sum/) | [c++](./codes/Two_Sum.cpp) |
 
 ##Heap
-| #    | Title       | Solution  | 
+
+| #    | Title       | Solution  |
 | ---- |-------------| -----     |
 | x    |[Building Outline](http://www.lintcode.com/en/problem/building-outline/) | [java](./codes/Building_Outline.java) |
 | x    |[Heapify](http://www.lintcode.com/en/problem/heapify/) | [c++](./codes/Heapify.cpp) |
 | x    |[Trapping Rain Water II](http://www.lintcode.com/en/problem/trapping-rain-water-ii/) | [java](./codes/Trapping_Rain_Water_II.java) |
 
 ##Segment Tree  
-| #    | Title       | Solution  | 
+
+| #    | Title       | Solution  |
 | ---- |-------------| -----     |
 | 85    |[Count of Smaller Number](http://www.lintcode.com/en/problem/count-of-smaller-number/) | [c++](./codes/CountofSmallerNumber.cpp) |
 
 ##Stack
-| #    | Title       | Solution  | 
+
+| #    | Title       | Solution  |
 | ---- |-------------| -----     |
 | x    |[Implement Queue by Two Stacks](http://www.lintcode.com/en/problem/implement-queue-by-two-stacks/) | [c++](./codes/Implement_Queue_by_Two_Stacks.cpp) |
 | x    |[Min Stack](http://www.lintcode.com/en/problem/min-stack/) | [c++](./codes/Min_Stack.cpp) |
@@ -100,7 +111,8 @@ Lintcode Solutions
 
 
 ##Two Pointers
-| #    | Title       | Solution  | 
+
+| #    | Title       | Solution  |
 | ---- |-------------| -----     |
 | x    |[Trapping Rain Water](http://www.lintcode.com/en/problem/trapping-rain-water/) | [c++](./codes/Trapping_Rain_Water.cpp) |
 | x    |[Minimum Size Subarray Sum](http://www.lintcode.com/en/problem/minimum-size-subarray-sum/) | [c++](./codes/Minimum_Size_Subarray_Sum.cpp) |
@@ -111,15 +123,16 @@ Lintcode Solutions
 | x    |[The Smallest Difference](http://www.lintcode.com/en/problem/the-smallest-difference/) | [c++](./codes/The_Smallest_Difference.cpp) |
 
 ##Trie
-| #    | Title       | Solution  | 
+
+| #    | Title       | Solution  |
 | ---- |-------------| -----     |
 | x    |[Add and Search Word](http://www.lintcode.com/en/problem/add-and-search-word/) | [java](./codes/Add_and_Search_Word.java) |
 | x    |[Word Search II](http://www.lintcode.com/en/problem/word-search-ii/) | [java](./codes/Word_Search_II.java) |
 
 
 ##Union Find
-| #    | Title       | Solution  | 
+
+| #    | Title       | Solution  |
 | ---- |-------------| -----     |
 | x  |[Find the Weak Connected Component in the Directed Graph](http://www.lintcode.com/en/problem/find-the-weak-connected-component-in-the-directed-graph/) | [java](./codes/Find_the_Weak_Connected_Component_in_the_Directed_Graph.java) |
 | x  |[Number of Islands II](http://www.lintcode.com/en/problem/number-of-islands-ii/) | [java](./codes/Number_of_Islands_II.java) |
-

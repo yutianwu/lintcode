@@ -1,5 +1,5 @@
 class Solution {
-public:    
+public:
     /**
      * @param source: A string
      * @param target: A string
@@ -13,7 +13,7 @@ public:
         map<char, int> hash;
         map<char, int> targetHash = initTarget(target);
         for (end = 0; end < source.size(); end++) {
-            if (hash.find(source[end]) == hash.end()) 
+            if (hash.find(source[end]) == hash.end())
                 hash[source[end]] = 0;
             hash[source[end]] += 1;
             
@@ -30,17 +30,17 @@ public:
         if (minLength == INT_MAX) return "";
         return source.substr(startHis, minLength);
     }
-    
+
     map<char, int> initTarget(string &target) {
         map<char, int> targetHash;
         for (int i = 0; i < target.size(); i++) {
-            if (targetHash.find(target[i]) == targetHash.end()) 
+            if (targetHash.find(target[i]) == targetHash.end())
                 targetHash[target[i]] = 0;
             targetHash[target[i]] += 1;
         }
         return targetHash;
     }
-    
+
     bool isSatisfied(map<char, int> &hash, map<char, int> &target) {
         map<char, int>::iterator it;
         for (it = target.begin(); it != target.end(); it++) {
@@ -50,4 +50,3 @@ public:
         return true;
     }
 };
-
