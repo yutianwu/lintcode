@@ -78,6 +78,12 @@ Lintcode Solutions
 | x    |[Longest Common Subsequence](http://www.lintcode.com/en/problem/longest-common-subsequence/) | [c++](./codes/Longest_Common_Subsequence.cpp) |
 | x    |[Interleaving String](http://www.lintcode.com/en/problem/interleaving-string/) | [c++](./codes/Interleaving_String.cpp) |
 
+## Greedy
+
+| #    | Title       | Solution  |
+| ---- |-------------| -----     |
+| x  |[Best Time to Buy and Sell Stock](http://www.lintcode.com/en/problem/best-time-to-buy-and-sell-stock/) | [c++](./codes/Best_Time_to_Buy_and_Sell_Stock.cpp) |
+
 ## Hash Table
 
 | #    | Title       | Solution  |
