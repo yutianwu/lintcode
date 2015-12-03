@@ -79,6 +79,12 @@ Lintcode Solutions
 | x    |[Interleaving String](http://www.lintcode.com/en/problem/interleaving-string/) | [c++](./codes/Interleaving_String.cpp) |
 | x    |[Best Time to Buy and Sell Stock III](http://www.lintcode.com/en/problem/best-time-to-buy-and-sell-stock-iii/) | [c++](./codes/Best_Time_to_Buy_and_Sell_Stock_III.cpp) |
 
+## Enumeration
+
+| #    | Title       | Solution  |
+| ---- |-------------| -----     |
+| x  |[Fizz Buzz](http://www.lintcode.com/en/problem/fizz-buzz/) | [c++](./codes/Fizz_Buzz.cpp) |
+
 ## Greedy
 
 | #    | Title       | Solution  |
