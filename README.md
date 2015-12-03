@@ -83,6 +83,7 @@ Lintcode Solutions
 | #    | Title       | Solution  |
 | ---- |-------------| -----     |
 | x  |[Best Time to Buy and Sell Stock](http://www.lintcode.com/en/problem/best-time-to-buy-and-sell-stock/) | [c++](./codes/Best_Time_to_Buy_and_Sell_Stock.cpp) |
+| x  |[Best Time to Buy and Sell Stock II](http://www.lintcode.com/en/problem/best-time-to-buy-and-sell-stock-ii/) | [c++](./codes/Best_Time_to_Buy_and_Sell_Stock_II.cpp) |
 
 ## Hash Table
 
